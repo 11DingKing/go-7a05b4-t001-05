@@ -1,0 +1,14 @@
+{
+  "store_id": "SH001",
+  "store_name": "上海旗舰店",
+  "trade_date": "2026-08-17",
+  "gold_price": 768.50,
+  "karat_discount_rules": [
+    {"karat": 999, "rate": 0.98},
+    {"karat": 990, "rate": 0.95},
+    {"karat": 900, "rate": 0.90},
+    {"karat": 750, "rate": 0.80}
+  ],
+  "craft_rate_per_gram": 12.00,
+  "currency": "CNY"
+}

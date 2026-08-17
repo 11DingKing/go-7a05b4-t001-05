@@ -1,0 +1,4 @@
+order_id,customer,old_karat,old_weight,new_product_code,new_weight,gold_price
+A001,张三,999,2.000,G001,8.000,768.50
+A002,李四,990,3.500,G002,7.000,768.50
+A003,王五,750,1.000,G003,5.000,768.50
