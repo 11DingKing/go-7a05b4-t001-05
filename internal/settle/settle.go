@@ -79,6 +79,7 @@ loop:
 	for i := 0; i < n; i++ {
 		if rowErrs[i] != nil {
 			result.Errors = append(result.Errors, *rowErrs[i])
+			continue
 		}
 		result.Settlements = append(result.Settlements, settlements[i])
 		result.Summary.Add(settlements[i])
